@@ -6,14 +6,14 @@ Hi ! My name is Sunit Das
 - 🌱 EAT LEARN SLEEP REPEAT
 - ⚡ To collaborate : sunitdasclassx@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><br/>
 
 <p align="left">
 <a href="https://twitter.com/imsunitdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsunitdas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunit-das-a32459300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunit-das-a32459300" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunit_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunit_das" height="30" width="40" /></a>
 </p>
-
+<br/>
 
 <a href="https://github.com/SunitCodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SunitCodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>     <img src="https://komarev.com/ghpvc/?username=SunitCodes&label=Profile%20views&color=0e75b6&style=flat" alt="SunitCodes" />     <a href="https://twitter.com/Imsunitdas" target="blank"><img src="https://img.shields.io/twitter/follow/Imsunitdas?logo=twitter&style=for-the-badge" alt="SunitCodes" /></a> 
@@ -34,6 +34,6 @@ src="https://img.shields.io/github/followers/SunitCodes?logo=github&style=for-th
 
 <a href="https://github.com/SunitCodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunitCodes&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br /><br />
+<br />
 
 
